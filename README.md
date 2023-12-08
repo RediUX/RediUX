@@ -18,5 +18,6 @@ Este projeto foi desenvolvido por uma equipe multidisciplinar dedicada à criaç
 - **Desenvolvedores**:
   - [Edoardo Nogueira](https://github.com/edoardonog)
   - [Hugo Maciel](https://www.linkedin.com/in/hugo-maciel-coelho)
+  - [Lucas Amorim](https://linkedin.com/in/lxcasamorim)
   - [Luiz Eduardo](https://github.com/Luiz-Eduardo-BL)
   - [Jefferson Uchoa](https://www.linkedin.com/in/jefferson-uchoa-b264b3186)
